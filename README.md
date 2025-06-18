@@ -75,6 +75,45 @@ I enjoy solving real-world problems and constantly challenge myself with new lea
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
+---
+
+## 🚀 Projects
+
+Here are some cool things I've built 👇
+
+### 🌿 [HerbiVerse](https://github.com/HimeshLaddha/HerbiVerse)
+An interactive herbal learning hub featuring **2D/3D plant models**, detailed care tips, and an admin dashboard.  
+Built using **React, Node.js, MongoDB, Three.js**  
+⚡ Features:  
+- Virtual herbal garden with immersive models  
+- Admin panel for managing plant data  
+- Responsive UI with Tailwind and Framer Motion
+
+---
+
+### 💬 [QuickChat](https://github.com/HimeshLaddha/QuickChat)
+A real-time chat app with user authentication and group chat support.  
+Built using **MERN stack + Socket.io**  
+🔥 Features:  
+- Live chat with typing indicators  
+- JWT-based login system  
+- MongoDB chat storage
+
+---
+
+### 🔐 [PassOp](https://github.com/HimeshLaddha/PassOp)
+A sleek and secure password manager app built with React.  
+🔐 Features:  
+- Local password encryption  
+- User-friendly interface  
+- Add, edit, delete passwords easily
+
+---
+
+🧠 Want to see more? Check out my [GitHub repositories »](https://github.com/HimeshLaddha?tab=repositories)
+
+---
+
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/himesh-laddha-00bb47293/)
