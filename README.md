@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Himesh (a.k.a bhai) — Welcome to my GitHub!
+# 👋 Hello, I'm Himesh Laddha — Welcome to my GitHub!
 
 🚀 **Full Stack Developer | Aspiring AI/ML Engineer | Passionate Problem Solver**
 
