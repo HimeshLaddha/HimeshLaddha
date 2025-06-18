@@ -40,8 +40,10 @@ I enjoy solving real-world problems and constantly challenge myself with new lea
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Let's Connect
 
-> You can add dynamic GitHub stats here using tools like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
-> Like:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/himesh-laddha-00bb47293/)
+- 💻 [Portfolio](#coming-soon)
+- ✉️ himeshladdha@gmail.com
+
 
