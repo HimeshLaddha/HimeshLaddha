@@ -1,25 +1,26 @@
 # 👋 Hello, I'm Himesh Laddha — Welcome to my GitHub!
 
 🚀 **Full Stack Developer | Passionate Problem Solver**
-🌐 [Visit My Portfolio Website](https://himesh-portfolio-delta.vercel.app)
+🌐 [Visit My Portfolio Website](https://himesh-portfolio-delta.vercel.app/)
 
 ---
 
 ## 👨‍💻 About Me
 
-Hey there! I'm Himesh, a tech enthusiast who loves turning ideas into reality with code.  
-Currently diving deep into the world of **Artificial Intelligence & Machine Learning**,  
-while sharpening my skills in **Data Structures & Algorithms** 🔍
+I'm a Full-Stack Developer passionate about building scalable and user focused web applications.
 
-I enjoy solving real-world problems and constantly challenge myself with new learning opportunities!
+I enjoy working across the entire stack from designing responsive UIs to building secure backend APIs.  
+Currently focused on strengthening my expertise in **system design, performance optimization, and Data Structures & Algorithms**.
+
+I also explore AI/ML concepts to understand modern intelligent systems, but my primary strength lies in **building robust web applications.**
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Currently Working On
 
-- 🤖 Advanced AI/ML concepts and model building  
-- 🧮 DSA for cracking coding rounds  
-- 🧠 Building AI agents and prompt engineering
+- ⚡ Building production ready full stack applications  
+- 🧮 Improving DSA & problem solving for technical interviews  
+- 🏗 Learning scalable backend architecture & system design  
 
 ---
 
@@ -78,36 +79,42 @@ I enjoy solving real-world problems and constantly challenge myself with new lea
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-Here are some cool things I've built 👇
+### 💼 [Job Portal Application](https://github.com/HimeshLaddha/job-portal)
+Full stack job portal with recruiter and candidate workflows.  
+Built using **MERN Stack, Clerk, Cloudinary, and Sentry**  
+- Secure authentication & role based access  
+- Job posting, applications & status tracking  
+- Resume uploads & error monitoring  
+- Scalable REST API architecture  
+
+---
+
+### 🏨 [QuickStay – Hotel Booking System](https://github.com/HimeshLaddha/Hotel_Booking)
+Complete hotel booking platform with admin dashboard.  
+Built using **MERN Stack**  
+- Role based authentication  
+- Real time room availability tracking  
+- Booking management system  
+
+---
 
 ### 🌿 [HerbiVerse](https://github.com/HimeshLaddha/HerbiVerse)
-An interactive herbal learning hub featuring **2D/3D plant models**, detailed care tips, and an admin dashboard.  
+Interactive herbal learning platform with 2D/3D models.  
 Built using **React, Node.js, MongoDB, Three.js**  
-⚡ Features:  
-- Virtual herbal garden with immersive models  
-- Admin panel for managing plant data  
-- Responsive UI with Tailwind and Framer Motion
+- Immersive 3D plant exploration  
+- Admin dashboard  
+- Responsive UI  
 
 ---
 
-### 💬 [QuickChat](https://github.com/HimeshLaddha/QuickChat)
-A real-time chat app with user authentication and group chat support.  
-Built using **MERN stack + Socket.io**  
-🔥 Features:  
-- Live chat with typing indicators  
-- JWT-based login system  
-- MongoDB chat storage
-
----
-
-### 🔐 [PassOp](https://github.com/HimeshLaddha/PassOp)
-A sleek and secure password manager app built with React.  
-🔐 Features:  
-- Local password encryption  
-- User-friendly interface  
-- Add, edit, delete passwords easily
+### 💬 [QuickChat](https://github.com/HimeshLaddha/Chat_App)
+Real time messaging application with image sharing.  
+Built using **MERN Stack + Socket.io**  
+- Live chat & typing indicators  
+- Secure authentication  
+- Scalable WebSocket architecture  
 
 ---
 
@@ -118,6 +125,5 @@ A sleek and secure password manager app built with React.
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/himesh-laddha-00bb47293/)
-- 💻 [Portfolio](#coming-soon)
+- 💻 [Portfolio](https://himesh-portfolio-delta.vercel.app/)
 - ✉️ himeshladdha@gmail.com
-
