@@ -31,7 +31,7 @@ I also explore AI/ML concepts to understand modern intelligent systems, but my p
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Hallucination Risk Assessment (Private Repo)
+### 🧠 [AI Hallucination Risk Assessment](https://github.com/HimeshLaddha/AI-Hallucination-Risk-Assessment)
 *An automated framework to quantify and detect factual inconsistencies in LLM-generated responses.*
 - **Tech:** Python, Transformers, PyTorch, OpenAI API
 - Developed a research driven tool to evaluate model reliability across diverse prompt categories.
