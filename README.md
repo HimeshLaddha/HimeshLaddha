@@ -30,7 +30,7 @@ Ex-Frontend Engineer @ The Design Trip
 | [TalentMatch AI](https://github.com/HimeshLaddha/TalentMatch_AI) | Ranks 100k+ candidates in <60s. Split-plane heuristic ranker + Qdrant vector search + RRF fusion + LLM gap analysis. **Redrob AI India Challenge** | Python, FastAPI, Next.js, MongoDB, Qdrant |
 | [TruthLens](https://github.com/HimeshLaddha/AI-Hallucination-Risk-Assessment) | Five-layer LLM fact-checking pipeline · 93%+ accuracy · **Josh Hackathon Winner 2026** | TypeScript, Python, Gemini API |
 | [ToxScan AI](https://github.com/HimeshLaddha/Code_Cure_hackathon_Solution) | Drug toxicity prediction across 12 biological pathways with toxicophore visualization | Python, XGBoost, RDKit |
-| [TradeGuard AI](https://github.com/HimeshLaddha/TradeGuard_AI-1) | GenAI contract analysis — surfaces hidden liabilities automatically | React, Node.js, MongoDB, Gemini API |
+| [TradeGuard AI](https://github.com/HimeshLaddha/TradeGuard_AI) | GenAI contract analysis — surfaces hidden liabilities automatically | React, Node.js, MongoDB, Gemini API |
 | [Job Portal](https://github.com/HimeshLaddha/job-portal) | Production recruitment platform with MFA, role-based access, resume management | MERN, TypeScript, Clerk |
 | [Herbiverse](https://github.com/HimeshLaddha/Herbiverse) | 3D interactive herbal learning hub built with Three.js | JavaScript, Three.js |
 
