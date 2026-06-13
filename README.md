@@ -18,7 +18,7 @@ and applied AI — production-ready, not research demos.
 - **3D web experiences** — Three.js, React Three Fiber, 
   custom shader logic, physics-based rendering
 
-Currently: 3rd year IT @ PICT (CGPA 9.93) · 
+Currently: 3rd year IT @ PICT (CGPA 9.24) · 
 Ex-Frontend Engineer @ The Design Trip
 
 ---
